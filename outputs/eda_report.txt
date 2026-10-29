@@ -1,0 +1,23 @@
+EXPLORATORY DATA ANALYSIS REPORT
+========================================
+
+Dataset rows: 891
+Dataset columns: 12
+Duplicate rows: 0
+Total missing cells: 866
+Overall survival rate: 38.38%
+
+KEY FINDINGS
+----------------------------------------
+Survival rate was highest for female (74.20%) and lowest for male (18.89%).
+Passenger class with the highest observed survival rate: 1 (62.96%).
+
+INTERPRETATION NOTES
+----------------------------------------
+Correlations indicate association, not causation.
+Missing values may affect the interpretation of results.
+Findings describe this dataset and are not proof of general causal relationships.
+
+OUTPUTS
+----------------------------------------
+See the CSV summary tables and PNG charts in outputs/.
